@@ -9,7 +9,7 @@ body{
     text-align: center;
 }
 .buttonClass{
-    float: left;
+    float: center;
     width: 10%;
     height: 10%;
     margin: 1%;
